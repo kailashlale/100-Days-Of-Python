@@ -1,7 +1,6 @@
 import random
 import gradio as gr
 
-
 def game(user_choice):
 
     if user_choice is None:
