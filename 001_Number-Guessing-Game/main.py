@@ -1,4 +1,4 @@
-from random import random
+import random
 def number_guessing():
     number = random.randint(1, 100)
     attempts = 1
