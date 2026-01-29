@@ -4,6 +4,9 @@ import gradio as gr
 
 def game(user_choice):
 
+    if user_choice is None:
+        return "Please select Rock, Paper, or Scissor first!"
+
     comp_choice = random.choice(['rock', 'paper', 'scissor'])
     comp_win_combo = {"rock":"scissor", "paper" : "rock",  "scissor" : "paper"}
 
