@@ -20,7 +20,7 @@ Below is a curated list of projects completed during this challenge. Click the *
 
 | Day | Project Name | Description | Source Code | Live Demo |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | **Number Guessing Game** | Classic game that generates a random number and counts your guess attempts till you find that number | [📂 View Code](./001_Number-Guessing-Game) | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/kailashlale/Day01-Number-Guessing-Game) |
+| 01 | **Number Guessing Game** | Classic game that generates a random number and counts your guess attempts till you find that number | [📂 View Code](./Day01-Number-Guessing-Game) | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/kailashlale/Day01-Number-Guessing-Game) |
 
 
 > **Note:** `app.py` contains the Gradio web interface code, while `main.py` contains the pure Python console logic.
