@@ -20,8 +20,8 @@ Below is a curated list of projects completed during this challenge. Click the *
 
 | Day | Project Name | Description | Source Code | Live Demo |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | **Number Guessing Game** | Classic game that generates a random number and counts your guess attempts till you find that number | [View Code](./Day01-Number-Guessing-Game) | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/kailashlale/Day01-Number-Guessing-Game) |
-| 02 | **Rock Paper Scissors** | Interactive game where you compete against the computer using Rock, Paper, or Scissors | [View Code](./Day02-Rock-Paper-Scissor) | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/kailashlale/Day02-Rock-Paper-Scissors) |
+| 01 | **Number Guessing Game** | Classic game that generates a random number and counts your guess attempts till you find that number | [Code](./Day01-Number-Guessing-Game/main.py) | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/kailashlale/Day01-Number-Guessing-Game) |
+| 02 | **Rock Paper Scissors** | Interactive game where you compete against the computer using Rock, Paper, or Scissors | [Code](./Day02-Rock-Paper-Scissor/main.py) | [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/kailashlale/Day02-Rock-Paper-Scissors) |
 
 
 
