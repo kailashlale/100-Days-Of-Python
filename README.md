@@ -4,10 +4,10 @@ I am a **Creative Designer with 8+ years of experience** in brand strategy, pack
 
 Here, you will find logic-based console applications and interactive web interfaces built with **Gradio** and deployed on **Hugging Face**.
 
----
+--- 
 
 ### 🛠️ Tech Stack & Tools
-- **Language:** Python 3.x
+- **Language:** Python 3.12
 - **Interfaces:** Gradio (for web apps), Console (for logic)
 - **Deployment:** Hugging Face Spaces
 - **Design Philosophy:** Clean code, optimized flow, and user-centric functionality.
