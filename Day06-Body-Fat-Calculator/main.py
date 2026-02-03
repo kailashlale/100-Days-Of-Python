@@ -1,5 +1,6 @@
 import math
 
+
 class BodyFatCalculator:
     def __init__(self):
         self.gender = None
@@ -44,7 +45,9 @@ class BodyFatCalculator:
 
     def get_weight_inputs(self):
         while True:
-            self.weight_unit = input("Enter units for weight measurement (kg/lbs): ").strip().lower()
+            self.weight_unit = (
+                input("Enter units for weight measurement (kg/lbs): ").strip().lower()
+            )
             if self.weight_unit in ("kg", "lbs"):
                 break
             print("Invalid unit. Please only enter 'kg' or 'lbs'.")
@@ -134,11 +137,12 @@ class BodyFatCalculator:
             print("\n-------------- RESULTS --------------")
             print(f" {'Your Body Fat Percentage:':<16} {self.body_fat_pct:>6} %")
             print(self.get_mass_breakdown())
-            print("-"*37)
+            print("-" * 37)
             print(f"{self.get_category():^38}")
-            print("-"*37,"\n")
+            print("-" * 37, "\n")
         else:
             print("\nCould not calculate results due to measurement errors.")
+
 
 if __name__ == "__main__":
     app = BodyFatCalculator()

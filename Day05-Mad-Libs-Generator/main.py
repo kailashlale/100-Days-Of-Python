@@ -1,4 +1,3 @@
-
 def mad_lib():
     adjective_1 = input("Enter first Adjective: ").strip().lower()
     noun = input("Enter any Noun(Person/Thing): ").strip().title()
@@ -29,7 +28,9 @@ def mad_lib():
     print(f"{'-'*20}\nStories Generated Successfully")
 
     while True:
-        print(f"\n 1. {story_title_1}\n 2. {story_title_2}\n 3. {story_title_3}\n 4. {story_title_4}\n 5. {story_title_5}")
+        print(
+            f"\n 1. {story_title_1}\n 2. {story_title_2}\n 3. {story_title_3}\n 4. {story_title_4}\n 5. {story_title_5}"
+        )
 
         select_story = input("Enter which story you want to see (1-5): ").strip()
 
@@ -37,16 +38,17 @@ def mad_lib():
 
         match select_story:
             case "1":
-                print(seperator, story_title_1,seperator, story_result_1,seperator)
+                print(seperator, story_title_1, seperator, story_result_1, seperator)
             case "2":
-                print(seperator, story_title_2,seperator, story_result_2,seperator)
+                print(seperator, story_title_2, seperator, story_result_2, seperator)
             case "3":
-                print(seperator, story_title_3,seperator, story_result_3,seperator)
+                print(seperator, story_title_3, seperator, story_result_3, seperator)
             case "4":
-                print(seperator, story_title_4,seperator, story_result_4,seperator)
+                print(seperator, story_title_4, seperator, story_result_4, seperator)
             case "5":
-                print(seperator, story_title_5,seperator, story_result_5,seperator)
+                print(seperator, story_title_5, seperator, story_result_5, seperator)
             case _:
-                print("\n","\n", "Error: Enter valid option")
+                print("\n", "\n", "Error: Enter valid option")
+
 
 mad_lib()

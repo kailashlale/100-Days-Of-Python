@@ -1,9 +1,8 @@
-
 first = input("Enter first number: ")
 second = input("Enter second number: ")
 operand = input("Enter + - / * ")
 
-operand_set = {"+" : "Sum", "-":"Subtraction","*":"product", "/" : "Division"}
+operand_set = {"+": "Sum", "-": "Subtraction", "*": "product", "/": "Division"}
 
 try:
     num1 = float(first)
@@ -31,7 +30,7 @@ try:
             print(f"{operand_set[operand]} of {first} and {second} is {final_result}")
 
     else:
-        print ("Invalid operand")
+        print("Invalid operand")
 
 except ValueError:
-    print ("Both input should be numeric only")
+    print("Both input should be numeric only")
