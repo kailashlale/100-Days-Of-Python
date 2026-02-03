@@ -4,7 +4,7 @@ I am a **Creative Designer with 8+ years of experience** in brand strategy, pack
 
 Here, you will find logic-based console applications and interactive web interfaces built with **Gradio** and deployed on **Hugging Face**.
 
---- 
+---
 
 ### 🛠️ Tech Stack & Tools
 - **Language:** Python 3.12
@@ -45,11 +45,11 @@ If you want to run these projects on your own machine:
 2. **Directly run the program in your console:**
    ```bash
    # Windows
-   python {folderName}/main.py 
+   python {folderName}/main.py
    # Example: python 001_Number-Guessing-Game/main.py
 
    # Mac/Linux
-   python3 {folderName}/main.py 
+   python3 {folderName}/main.py
    # Example: python3 001_Number-Guessing-Game/main.py
    ```
 
@@ -62,8 +62,7 @@ If you want to run these projects on your own machine:
 
    Then run the app file:
    ```bash
-   gradio {folderName}/app.py 
+   gradio {folderName}/app.py
    # Example: gradio 001_Number-Guessing-Game/app.py
    ```
    *Click the local URL (usually http://127.0.0.1:7860) that appears in your terminal.*
-

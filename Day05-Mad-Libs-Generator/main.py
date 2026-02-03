@@ -34,7 +34,7 @@ def mad_lib():
 
         select_story = input("Enter which story you want to see (1-5): ").strip()
 
-        seperator = f"\n{"-"*100}\n"
+        seperator = f"\n{" - "*100}\n"
 
         match select_story:
             case "1":

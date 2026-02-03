@@ -19,7 +19,6 @@ def inputs():
 
 
 def winner(comp_choice, user_choice):
-
     comp_win_combo = {"rock": "scissor", "paper": "rock", "scissor": "paper"}
 
     if comp_win_combo[comp_choice] == user_choice:
