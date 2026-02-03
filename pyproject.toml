@@ -1,3 +1,0 @@
-[tool.bandit]
-exclude_dirs = ["tests", "venv"]
-skips = ["B101"]  # Skip "assert" warnings (common in 100 Days of Code)
