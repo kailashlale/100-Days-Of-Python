@@ -26,6 +26,7 @@ Below is a curated list of projects completed during this challenge. Click the *
 | 04 | **Password Generator** | Password generator based on combo you choose and percentage of letter and symbols specified | [![Static Badge](https://img.shields.io/badge/Code-262c36?logo=python&logoColor=21c063)](./Day04-Password-Generator/main.py) | [![Hugging Face](https://img.shields.io/badge/Gradio-262c36?logo=gradio)](https://kailashlale-day04-password-generator.hf.space) |
 | 05 | **Mad Libs Generator** | Turn your inputs into 5 Mad-Lib unique stories | [![Static Badge](https://img.shields.io/badge/Code-262c36?logo=python&logoColor=21c063)](./Day05-Mad-Libs-Generator/main.py) | [![Hugging Face](https://img.shields.io/badge/Gradio-262c36?logo=gradio)](https://kailashlale-day05-mad-libs-generator.hf.space) |
 | 06 | **Body Fat Calculator** | Body fat percentage calculator with health insights | [![Static Badge](https://img.shields.io/badge/Code-262c36?logo=python&logoColor=21c063)](./Day06-Body-Fat-Calculator/main.py) | [![Hugging Face](https://img.shields.io/badge/Gradio-262c36?logo=gradio)](https://kailashlale-day06-body-fat-calculator.hf.space) |
+| 07 | **Reaction Time Game** | Reflex tester using random 1-5s delays and `perf_counter` for millisecond precision | [![Static Badge](https://img.shields.io/badge/Code-262c36?logo=python&logoColor=21c063)](./Day07-Reaction-Time-Game/main.py) | [![Hugging Face](https://img.shields.io/badge/Gradio-262c36?logo=gradio)](https://kailashlale-day07-reaction-time-game.hf.space) |
 
 
 
