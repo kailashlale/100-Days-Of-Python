@@ -1,5 +1,5 @@
 import time
-from random import random
+import random
 
 
 def play_game():
