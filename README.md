@@ -6,13 +6,6 @@ Here, you will find logic-based console applications and interactive web interfa
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Language:** Python 3.12
-- **Interfaces:** Gradio (for web apps), Console (for logic)
-- **Deployment:** Hugging Face Spaces
-- **Design Philosophy:** Clean code, optimized flow, and user-centric functionality.
-
----
 
 ### 📂 Project Showcase
 
@@ -36,6 +29,13 @@ Below is a curated list of projects completed during this challenge. Click the *
 
 ---
 
+### 🛠️ Tech Stack & Tools
+- **Language:** Python 3.12
+- **Interfaces:** Gradio (for web apps), Console (for logic)
+- **Deployment:** Hugging Face Spaces
+- **Design Philosophy:** Clean code, optimized flow, and user-centric functionality.
+
+---
 ## 🚀 How to Run Locally
 
 If you want to run these projects on your own machine:
